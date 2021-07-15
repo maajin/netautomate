@@ -1,0 +1,9 @@
+sh ver | i up
+sh ip protocols
+sh run | sec line vty
+sh ip ssh
+sh ip int br | ex un
+sh vrf br
+sh standby br
+sh route vrf all
+
