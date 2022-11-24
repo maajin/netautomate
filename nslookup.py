@@ -1,5 +1,5 @@
 import socket
-import pandas as pd
+
 
 file =open ('dns.txt', 'r')
 domain_list = []
