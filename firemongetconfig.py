@@ -33,7 +33,6 @@ Note that this is just a basic example and you may need to modify it to fit your
 
 
 
-boosaiyan@gmail.com
 Write a python script to download all firewall configurations from Firemon and store it ins a folder.
 To download all firewall configurations from Firemon and store them in a folder, you can use the following Python script:
 
